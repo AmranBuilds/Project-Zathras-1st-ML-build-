@@ -1,0 +1,6 @@
+# Ignore generated stories
+*.txt
+
+# Ignore system files
+__pycache__/
+*.pyc
