@@ -1,4 +1,4 @@
-# Project Zathras: Local LLM Benchmark
+# Project Zathras: My first ML project. 
 
 ## Overview
 This tool allows users to connect to a local LLM server (via LM Studio), generate creative text, and benchmark the hardware's performance by measuring Tokens Per Second (TPS). It demonstrates the integration of Python with local AI API endpoints.
